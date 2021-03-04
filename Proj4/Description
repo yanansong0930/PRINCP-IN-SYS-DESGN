@@ -1,0 +1,3 @@
+A program stimulate a Memory Allocator
+The program maintains a heap. It allow user to allocate memory, free memory, and see the current state of the heap.
+Accept user commands and execute them
